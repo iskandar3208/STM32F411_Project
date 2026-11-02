@@ -30,3 +30,6 @@ markdown# H1 제목
    2. 하위 항목 2
 
 [naver](https://example.com)
+
+[참조 링크][1]
+[1]: https://example.com "참조 링크"
