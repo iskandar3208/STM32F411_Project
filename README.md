@@ -11,21 +11,21 @@ STM32F411_Project test
 ---
 
 <p align="center">
-  <img src="img/F1.PNG">
+  <img src="IMG/F1.PNG">
 </p>
 
 <p align="center">
-  <img src="img/F1.PNG" width="80%">
+  <img src="IMG/F1.PNG" width="80%">
 </p>
 
 <p align="center">
-  <img src="img/F1.PNG" width="200">
+  <img src="IMG/F1.PNG" width="200">
 </p>
 
 <p align="center">
-  <img src="img/F1.PNG"  height="20%">
+  <img src="IMG/F1.PNG"  height="20%">
 </p>
 
 <p align="center">
-  <img src="img/F1.PNG"  height="200">
+  <img src="IMG/F1.PNG"  height="200">
 </p>
