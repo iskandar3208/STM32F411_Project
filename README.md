@@ -12,6 +12,6 @@ STM32F411_Project test
 
 ## Firmware
 
-![STM32F411 블럭도](IMG/STM32_1.PNG) <br>
-![STM32F411 블럭도](IMG/STM32_2.PNG) <br>
-![STM32F411 블럭도](IMG/STM32_3.PNG) <br>
+![STM32F411 블럭도](IMG/STM32_1.png) <br>
+![STM32F411 블럭도](IMG/STM32_2.png) <br>
+![STM32F411 블럭도](IMG/STM32_3.png) <br>
