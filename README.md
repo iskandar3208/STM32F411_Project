@@ -10,24 +10,8 @@ STM32F411_Project test
 
 ---
 
-<p align="center">
-  <img src="IMG/F1.PNG">
-</p>
-
-<p align="center">
-  <img src="IMG/F1.PNG" width="80%">
-</p>
-
-<p align="center">
-  <img src="IMG/F1.PNG" width="200">
-</p>
-
-<p align="center">
-  <img src="IMG/F1.PNG"  height="20%">
-</p>
-
-<p align="center">
-  <img src="IMG/F1.PNG"  height="200">
-</p>
-
 ## Firmware
+
+![STM32F411 블럭도](IMG/STM32_1.PNG) <br>
+![STM32F411 블럭도](IMG/STM32_2.PNG) <br>
+![STM32F411 블럭도](IMG/STM32_3.PNG) <br>
