@@ -12,6 +12,11 @@ STM32F411_Project test
 
 ## Firmware
 
+* RCC : Disable
 ![STM32F411 블럭도](IMG/STM32_1.png) <br>
+
+* CLOCK
 ![STM32F411 블럭도](IMG/STM32_2.png) <br>
+
+* 프로젝트 생성
 ![STM32F411 블럭도](IMG/STM32_3.png) <br>
