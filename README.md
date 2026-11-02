@@ -12,14 +12,17 @@ STM32F411_Project test
 
 ## Firmware
 
+-RCC : DISABLE
 <p align="center">
   <img src="IMG/F1.PNG">
 </p>
 
+-CLOCK
 <p align="center">
   <img src="IMG/F1.PNG" width="80%">
 </p>
 
+- 프로젝트 생성
 <p align="center">
   <img src="IMG/F1.PNG" width="200">
 </p>
@@ -31,14 +34,3 @@ STM32F411_Project test
 <p align="center">
   <img src="IMG/F1.PNG"  height="200">
 </p>
-
-  /* Infinite loop */
-  /* USER CODE BEGIN WHILE */
-  while (1)
-  {
-    /* USER CODE END WHILE */
-
-    /* USER CODE BEGIN 3 */
-  }
-  /* USER CODE END 3 */
-}
