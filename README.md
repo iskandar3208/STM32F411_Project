@@ -24,6 +24,7 @@ STM32F411_Project test
   
 ![STM32F411 블럭도](IMG/STM32_3.png) <br>
 
+```
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
@@ -34,3 +35,4 @@ STM32F411_Project test
   }
   /* USER CODE END 3 */
 }
+```
