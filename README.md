@@ -1,13 +1,6 @@
 # STM32F411_Project
 STM32F411_Project test
 
-markdown# H1 제목
-## H2 제목  
-### H3 제목
-#### H4 제목
-##### H5 제목
-###### H6 제목
-
 *이탤릭체* 또는 _이탤릭체_
 
 **볼드체** 또는 __볼드체__
@@ -31,20 +24,7 @@ markdown# H1 제목
 
 [naver](https://example.com)
 
-```javascript
-function hello() {
-    console.log('Hello World');
-}
-```
-```
-def hello():
-    print("Hello World")
-```
-```bash
-npm install package-name
-```
-
 열1 | 열2 | 열3 |
-|-----|-----|-----|
+|;-----|;-----|;-----|
 | 데이터1 | 데이터2 | 데이터3 |
 | 데이터4 | 데이터5 | 데이터6 |
