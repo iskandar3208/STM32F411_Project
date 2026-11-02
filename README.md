@@ -10,6 +10,8 @@ STM32F411_Project test
 
 ---
 
+## Firmware
+
 <p align="center">
   <img src="IMG/F1.PNG">
 </p>
@@ -29,3 +31,14 @@ STM32F411_Project test
 <p align="center">
   <img src="IMG/F1.PNG"  height="200">
 </p>
+
+  /* Infinite loop */
+  /* USER CODE BEGIN WHILE */
+  while (1)
+  {
+    /* USER CODE END WHILE */
+
+    /* USER CODE BEGIN 3 */
+  }
+  /* USER CODE END 3 */
+}
