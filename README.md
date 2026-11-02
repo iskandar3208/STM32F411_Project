@@ -31,5 +31,15 @@ markdown# H1 제목
 
 [naver](https://example.com)
 
-[참조 링크][1]
-[1]: https://example.com "참조 링크"
+```javascript
+function hello() {
+    console.log('Hello World');
+}
+```
+```python
+def hello():
+    print("Hello World")
+```
+```bash
+npm install package-name
+```
