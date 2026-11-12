@@ -21,6 +21,7 @@
 ![HC-ST04](IMG/HC-SR04(10).png) <br>
 
 ##코드/시뮬레이션
+
 ###TRIG 신호 측정
 
 ```
@@ -53,6 +54,7 @@ void trig(void)
 ```
 
 ###HAL_Delay 수정
+
 ```
   while (1)
   {
@@ -65,6 +67,7 @@ void trig(void)
 ![HC-ST04](IMG/HC-SR04(1).jpg) <br>
 
 ###ECHO 측정
+
 ```
   while (1)
   {
@@ -79,7 +82,7 @@ void trig(void)
 대상이 센서와 멀 때
 
 ###거리 측정 시뮬레이션(PUTTY 사용)
-![HC-ST04](IMG/HC-SR04(11).jpg) <br>
+![HC-ST04](IMG/HC-SR04(11).PNG) <br>
 
 ```
 /* USER CODE BEGIN Includes */
