@@ -77,11 +77,12 @@ void trig(void)
   }
 ```
 ![HC-ST04](IMG/HC-SR04(2).jpg) <br>
-대상이 센서와 가까울 때
-![HC-ST04](IMG/HC-SR04(3).jpg) <br>
-대상이 센서와 멀 때
+* 대상이 센서와 가까울 때
 
-###거리 측정 시뮬레이션(PUTTY 사용)
+![HC-ST04](IMG/HC-SR04(3).jpg) <br>
+* 대상이 센서와 멀 때
+
+### 거리 측정 시뮬레이션(PUTTY 사용)
 ![HC-ST04](IMG/HC-SR04(11).png) <br>
 
 ```
@@ -89,7 +90,7 @@ void trig(void)
 #include <stdio.h>
 /* USER CODE END Includes */
 ```
-*studio.h 함수가 없을 시 아래와 같은 에러가 나타나며 printf() 함수를 사용하지 못함. printf() 함수가 선언된 헤더 파일을 불러와야 사용할 수 있음.
+* studio.h 함수가 없을 시 아래와 같은 에러가 나타나며 printf() 함수를 사용하지 못함. printf() 함수가 선언된 헤더 파일을 불러와야 사용할 수 있음.
 
 ../Core/Src/main.c:175:3: note: include '<stdio.h>' or provide a declaration of 'printf'
 
