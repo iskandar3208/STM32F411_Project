@@ -16,13 +16,13 @@
      = 0.34 × t(µs) / 2 = 0.17 × t(µs)  [mm]
 ```
 
-##CUBE MX 설정
+## CUBE MX 설정
 
 ![HC-ST04](IMG/HC-SR04(10).png) <br>
 
-##코드/시뮬레이션
+## 코드/시뮬레이션
 
-###TRIG 신호 측정
+### TRIG 신호 측정
 
 ```
 /* USER CODE BEGIN PD */
@@ -53,7 +53,7 @@ void trig(void)
 /* USER CODE END 0 */
 ```
 
-###HAL_Delay 수정
+### HAL_Delay 수정
 
 ```
   while (1)
@@ -66,7 +66,7 @@ void trig(void)
 
 ![HC-ST04](IMG/HC-SR04(1).jpg) <br>
 
-###ECHO 측정
+### ECHO 측정
 
 ```
   while (1)
@@ -82,7 +82,7 @@ void trig(void)
 대상이 센서와 멀 때
 
 ###거리 측정 시뮬레이션(PUTTY 사용)
-![HC-ST04](IMG/HC-SR04(11).PNG) <br>
+![HC-ST04](IMG/HC-SR04(11).png) <br>
 
 ```
 /* USER CODE BEGIN Includes */
@@ -151,7 +151,7 @@ uint32_t echo(void) {
   }
 ```
 
-##PUTTY 결과
+## PUTTY 결과
 
-![HC-ST04](IMG/HC-SR04(7).PNG) <br>
-![HC-ST04](IMG/HC-SR04(8).PNG) <br>
+![HC-ST04](IMG/HC-SR04(7).png) <br>
+![HC-ST04](IMG/HC-SR04(8).png) <br>
